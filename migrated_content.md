@@ -1714,14 +1714,14 @@ Consultor independiente en seguridad de la información. Profesor de seguridad d
 <tr class="odd">
 <td style="text-align: center;"><p>09:00</p></td>
 <td style="text-align: center;"><p><strong>DUOC UC y OWASP Chile</strong></p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/d/db/Bienvenida_OwaspChile2016.pdf">Palabras de Bienvenida</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/Bienvenida_OwaspChile2016.pdf">Palabras de Bienvenida</a></p></td>
 <td style="text-align: center;"></td>
 </tr>
 <tr class="even">
 <td style="text-align: center;"><p>09:05</p></td>
 <td style="text-align: center;"><p><strong>Carlos Allendes D.</strong><br />
 Presidente de OWASP Chile e Ingeniero Civil en Informática, co-fundador de OWASP Honduras y República Dominicana. Conferencista y entrenador en Desarrollo Seguro, QA y testing de aplicaciones. Socio en QualityFactory.</p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/5/55/DesarrolloSeguro_SCL.pdf">Desarrollo Seguro...<br />
+<td style="text-align: center;"><p><a href="/www-pdf-archive/DesarrolloSeguro_SCL.pdf">Desarrollo Seguro...<br />
 ¿ Por donde comenzar ?</a></p></td>
 <td style="text-align: center;"><p>Además de los Requerimientos Funcionales, un sistema debe incorporar Requisitos de Seguridad. Cómo obtenerlos? quién los define y cómo lograr que los desarrolladores puedan incorporar y madurar estos conceptos.</p></td>
 </tr>
@@ -1729,7 +1729,7 @@ Presidente de OWASP Chile e Ingeniero Civil en Informática, co-fundador de OWAS
 <td style="text-align: center;"><p>10:40</p></td>
 <td style="text-align: center;"><p><strong>Ing. Mario Orellana</strong> [El Salvador]<br />
 Profesional especialista en CiberSeguridad, dirige e implementa iniciativas de Infraestructura &amp;Telecom. Actualmente es docente de Postgrado en la Universidad Don Bosco, con Especialización en Seguridad Informática.</p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/7/7f/ForensicsWebApps_SCL.pdf">Análisis Forense de Aplicaciones Web</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/ForensicsWebApps_SCL.pdf">Análisis Forense de Aplicaciones Web</a></p></td>
 <td style="text-align: center;"><p>Se aborda una introducción al Análisis Forense Digital de Aplicaciones Web, definiendo sus generalidades y diferencias con análisis forense tradicional. Se identificará herramientas y una metodología de investigación, con los puntos comunes para la detección de ataques.</p></td>
 </tr>
 <tr class="even">
@@ -1742,7 +1742,7 @@ Profesional especialista en CiberSeguridad, dirige e implementa iniciativas de I
 <td style="text-align: center;"><p>11:50</p></td>
 <td style="text-align: center;"><p><strong>Sebastián Koch M.</strong><br />
 Cientista Político de la Universidad Diego Portales. Investigador y Analista CEE de la Academia de Guerra. Iniciando su Doctorado en Ciencia Política.</p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/6/6e/Ubi_sunt_owasp_koch.pdf">"¿Dónde están?<br />
+<td style="text-align: center;"><p><a href="/www-pdf-archive/Ubi_sunt_owasp_koch.pdf">"¿Dónde están?<br />
 La atribución en el ciberespacio</a></p></td>
 <td style="text-align: center;"><p>Para enfrentar una amenaza a la seguridad, es relevante poder atribuirle un ataque a un actor determinado, así la víctima puede reaccionar al daño sufrido a través de la legítima defensa contra el atacante. Esta lógica, propia de la realidad física, no opera de igual manera en el ciberespacio.</p></td>
 </tr>
@@ -1750,7 +1750,7 @@ La atribución en el ciberespacio</a></p></td>
 <td style="text-align: center;"><p>12:30</p></td>
 <td style="text-align: center;"><p><strong>Felipe Sánchez F.</strong><br />
 Perito Judicial en Informática y Computación. Cursando segundo año del Magister en Seguridad, Peritaje y Auditoría Procesos Informáticos. Con más de 16 años de experiencia aplicada.</p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/b/ba/IncidentesInformaticaForense.pdf">Informática Forense y Evidencia Digital en Respuesta a Incidentes de Seguridad sobre Sistemas Web</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/IncidentesInformaticaForense.pdf">Informática Forense y Evidencia Digital en Respuesta a Incidentes de Seguridad sobre Sistemas Web</a></p></td>
 <td style="text-align: center;"><p>Consideraciones legales, normativas y técnicas implicadas en un correcto tratamiento y de evidencia digital generada a partir de un incidente que compromete la seguridad de la información en un sistema web.</p></td>
 </tr>
 <tr class="odd">
@@ -1777,7 +1777,7 @@ Consultor de Seguridad para Banca y Gobierno en Latinoamérica. CTO &amp; Co-fou
 <td style="text-align: center;"><p>17:00</p></td>
 <td style="text-align: center;"><p><strong>Sebastián Quevedo M.</strong><br />
 Investigador de Ornitorrinco Labs. Lic. En Matemáticas - UTFSM,EC-Council CEH, amplia experiencia y práctica senior Temporary Instructor CEH, speaker OWASP. Consultor Senior Esfera4.</p></td>
-<td style="text-align: center;"><p><a href="https://www.owasp.org/images/1/13/Top10owaspOrnitorrinco.pdf">Analizando los TOP 10 de OWASP</a></p></td>
+<td style="text-align: center;"><p><a href="/www-pdf-archive/Top10owaspOrnitorrinco.pdf">Analizando los TOP 10 de OWASP</a></p></td>
 <td style="text-align: center;"><p>Analizar la seguridad sobre aplicaciones web y algunas herramientas "libres" que pueden ayudar a identificar fallos en estos apps. Entender la naturaleza de las vulnerabilidades qué son, cómo surgen y dar a conocer una serie de recursos que ayudarán desarrolladores como a auditores a identificarlas y mitigarlas.</p></td>
 </tr>
 <tr class="odd">
@@ -1887,17 +1887,17 @@ Definir | valign="middle" bgcolor="\#EEEEEE" align="left" | Por Definir
 ## PRESENTACIONES DE LA CONFERENCIA 2014
 
   - Bienvenida, Carlos Allendes
-    [descargar](https://www.owasp.org/images/7/74/2014-abril-1_Bienvenida.pdf)
+    [descargar](/www-pdf-archive/2014-abril-1_Bienvenida.pdf)
   - Saludos OWASP GLOBAL, Fabio Cerullo
-    [descargar](https://www.owasp.org/images/d/da/2014-abril-2_OWASPquovadis.pdf)
+    [descargar](/www-pdf-archive/2014-abril-2_OWASPquovadis.pdf)
   - Innovación y emprendimiento TI, Dr. Jaime Soto M., Presidente ACTI
     CHILE.
-    [descargar](https://www.owasp.org/images/f/ff/2014-abril-3_Innovaci%C3%B3n_y_emprendimiento.pdf)
+    [descargar](/www-pdf-archive/2014-abril-3_Innovaci%C3%B3n_y_emprendimiento.pdf)
   - Banca Móvil: Un análisis de la seguridad, Boris Murillo ( CHILE).
-    [descargar](https://www.owasp.org/images/6/68/2014-abril-2_Banca_movil3.pdf)
+    [descargar](/www-pdf-archive/2014-abril-2_Banca_movil3.pdf)
   - Presente y Futuro de Seguridad de Aplicaciones, Fabio Cerullo
     (IRLANDA).
-    [descargar](https://www.owasp.org/images/2/2f/2014-abril-4_PteFuturoSeguridadapp.pdf)
+    [descargar](/www-pdf-archive/2014-abril-4_PteFuturoSeguridadapp.pdf)
   - Atacando y Apagando una red completa con un solo computador, Manuel
     Moreno (CHILE). \[\*pendiente\*\]
   - Sismos: ¿Será el único riesgo a considerar en Infraestructura
@@ -1905,7 +1905,7 @@ Definir | valign="middle" bgcolor="\#EEEEEE" align="left" | Por Definir
     (URUGUAY). \[\*pendiente\*\]
   - Ciberseguridad Industrial. Estado actual y próximos desafíos. Carlos
     Jaureche (CHILE).
-    [descargar](https://www.owasp.org/images/0/05/2014-abril-7_Ciberseguridad_Industrial_v2x%281%29.pdf)
+    [descargar](/www-pdf-archive/2014-abril-7_Ciberseguridad_Industrial_v2x%281%29.pdf)
 
 ## AGENDA DE LA CONFERENCIA 2014
 
@@ -2011,27 +2011,27 @@ impecable organización y recepción de la conferencia LATAM.
 ## OWASP LATAMTOUR 2012
 
   - OWASP_LatamTour_bienvenida.
-    [descargar](https://www.owasp.org/images/6/63/01_OWASP_LatamTur2012_Bienvenida.pdf)
+    [descargar](/www-pdf-archive/01_OWASP_LatamTur2012_Bienvenida.pdf)
 
 <!-- end list -->
 
   - Necesitas implantar PCI,¿Te dijeron qué hacer?.
-    [descargar](https://www.owasp.org/images/b/b2/02_OWASP_LatamTur2012_A.Bedini.pdf)
+    [descargar](/www-pdf-archive/02_OWASP_LatamTur2012_A.Bedini.pdf)
 
 <!-- end list -->
 
   - INGENIERÍA SOCIAL: HACKING PSICOLÓGICO
-    [descargar](https://www.owasp.org/images/5/57/03_OWASP_LatamTur2012_G.Izunza.pdf)
+    [descargar](/www-pdf-archive/03_OWASP_LatamTur2012_G.Izunza.pdf)
 
 <!-- end list -->
 
   - Seguridad en Bases de Datos
-    [descargar](https://www.owasp.org/images/7/7a/04_OWASP_LatamTur2012_M.Mart%C3%ADnez.pdf)
+    [descargar](/www-pdf-archive/04_OWASP_LatamTur2012_M.Mart%C3%ADnez.pdf)
 
 <!-- end list -->
 
   - Desarrollo Seguro usando OWASP
-    [descargar](https://www.owasp.org/images/3/34/05_OWASP_LatamTur2012_F.Cerullo.pdf)
+    [descargar](/www-pdf-archive/05_OWASP_LatamTur2012_F.Cerullo.pdf)
 
 # Tour2011
 
@@ -2283,9 +2283,9 @@ autodenomina el comité organizador
 
 __NOTOC__ <headertabs />
 
-[Category:OWASP_Document](Category:OWASP_Document "wikilink")
-[Category:OWASP_Download](Category:OWASP_Download "wikilink")
-[Category:OWASP_Release_Quality_Document](Category:OWASP_Release_Quality_Document "wikilink")
-[Category:South_America](Category:South_America "wikilink")
-[Category:Latin_America](Category:Latin_America "wikilink")
-[Category:OWASP_Chapter](Category:OWASP_Chapter "wikilink")
+[Category:OWASP_Document](Category:OWASP_Document )
+[Category:OWASP_Download](Category:OWASP_Download )
+[Category:OWASP_Release_Quality_Document](Category:OWASP_Release_Quality_Document )
+[Category:South_America](Category:South_America )
+[Category:Latin_America](Category:Latin_America )
+[Category:OWASP_Chapter](Category:OWASP_Chapter )
