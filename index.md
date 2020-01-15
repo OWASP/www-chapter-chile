@@ -2,7 +2,7 @@
 
 layout: col-sidebar
 title: OWASP Chile
-tags: example-tag
+tags: Chile
 level: 0
 
 region: Latin America
@@ -11,10 +11,26 @@ auto-migrated: 1
 
 ---
 
+# Sobre el capítulo OWASP Chile
+El capítulo Chileno es fundado el año 2010, por su actual presidente Carlos Allendes (carlos.allendes@owasp.org), su objetivo y motivación es divulgar en Chile y latinoamerica los conceptos de Seguridad en Aplicaciones basado en OWASP, entregando información objetiva a las empresas, personas y universidades, de modo que puedan identificar y combatir las causas que hacen inseguro el software. Revise nuestra documentación y metodologías en los Proyectos OWASP donde encontrará valioso material de aplicación práctica en los ambientes corporativos. Asista a los talleres y conferencias de OWASP y aprenda como sacar provecho a estos recursos gratuitos.
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+# Sobre el decimo año y la expansión de OWASP Chile
+
+Junto con cumplir 10 años, el capítulo chileno se está ampliando a regiones, gracias a la colaboración de voluntarios que lideran nuevas agrupaciones de interesados, y son activamente organizadores y relatores en talleres, charlas y eventos de ciberseguridad.
+
+
+### Sin fines de lucro, organización de voluntarios:
+* Todos los miembros son voluntarios
+* Todo el trabajo es donado por los patrocinadores
+
+### Proporcionar recursos gratuitos para la comunidad
+* Publicaciones, artículos, normas
+* Software de Testeo y Capacitación
+* Capítulos locales & Listas de correo
+
+### Soportada a través de patrocinios
+* Apoyo financiero a través de empresas o patrocinadores
+* Patrocinios personales de los miembros
 
 {front matter for this file}
 
