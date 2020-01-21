@@ -1,8 +1,10 @@
 # www-chapter-chile
 OWASP Foundation Web Respository
 
-aqui puedes ver el web creado  www-chapter-chile
-y aqui el repositorio
+aqui puedes ver el web creado  https://www2.owasp.org/www-chapter-chile
+
+
+y aqui el repositorio de fuentes
 
 
 
