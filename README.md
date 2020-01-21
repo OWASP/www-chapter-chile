@@ -2,7 +2,7 @@
 
 Aqui puedes ver la web creada https://www2.owasp.org/www-chapter-chile
 
-y aqui el repositorio de fuentes https://github.com/CarlosAllendes/www-chapter-chile
+aqui el repositorio de fuentes https://github.com/OWASP/www-chapter-chile
 
 Para probar los cambios, debes levantar un servidor con el código local siguiendo los siguientes pasos:
 
