@@ -1,13 +1,14 @@
-# www-chapter-chile
-OWASP Foundation Web Respository
+# www OWASP Chapter Chile
 
-aqui puedes ver el web creado  https://www2.owasp.org/www-chapter-chile
+aqui puedes ver la web creada  https://www2.owasp.org/www-chapter-chile
 
 
 y aqui el repositorio de fuentes  https://github.com/CarlosAllendes/www-chapter-chile
 
 
-Para probar los cambios, debes levantar un servidor con el código local serguiendo los siguientes pasos:
+Para probar los cambios, debes 
+levantar un servidor con el código local 
+siguiendo los siguientes pasos:
 
 Inicializar repositorio
 bundle install
