@@ -11,44 +11,56 @@ auto-migrated: 1
 
 ---
 
+layout: col-sidebar
+title: OWASP Chile
+tags: example-tag
+level: 0
 
-<!-- Standard Chapter Page Template
-This is an example of a Project or Chapter page.
-Please change these items to indicate the actual information you wish to present. In addition to this information, the 'front-matter' above the text should be modified to reflect your actual information.  An explanation of each of the front-matter items is below:
+region: Latin America
 
-{front matter for this file}
 
-```
-- layout: This is the layout used by project and chapter pages.  You should leave this value as col-sidebar
-- title: This is the title of your project or chapter page, usually the name.  For example, OWASP Zed Attack Proxy or OWASP Baltimore
-- tags: This is a space-delimited list of tags you associate with your project or chapter.  If you are using tabs, at least one of these tags should be unique in order to be used in the tabs files (an example tab is included in this repo) 
-- region: This is the region you are in according to our data
-```
+---
+__NOTOC__
 
-{copy for this file (index.md)}
-Replace the text above the commented area with your information in the format below:
-```
-## Welcome
-Include some information here about your chapter
 
-## Participation
-The Open Web Application Security Project (OWASP) is a nonprofit foundation that works to improve the security of software. All of our projects ,tools, documents, forums, and chapters are free and open to anyone interested in improving application security. 
 
-Chapters are led by local leaders in accordance with the [Chapter Leader Handbook](/www-policy/rules-of-procedure/chapter-handbook). Financial contributions should only be made online using the authorized online donation button. To be a SPEAKER at ANY OWASP Chapter in the world simply review the [speaker agreement](/www-policy/speaker-agreement) and then contact the local chapter leader with details of what OWASP Project, independent research, or related software security topic you would like to present.
+# Owasp-Chile
 
-Everyone is welcome and encouraged to participate in our [Projects](/projects), [Local Chapters](/chapters), [Events](/events), [Online Groups](https://groups.google.com/a/owasp.com/){:target='_blank'}, and [Community Slack Channel](https://owasp.slack.com/){:target='_blank'}. We especially encourage diversity in all our initiatives. OWASP is a fantastic place to learn about application security, to network, and even to build your reputation as an expert. We also encourage you to be [become a member](/membership) or consider a [donation](/donate) to support our ongoing work.
+## Equipo de Trabajo y Coordinación
 
-## Local News
-- Meeting Location
-- Everyone is welcome to join us at our chapter meetings.
+`      + Carlos Allendes D., Presidente y Líder OWASP Chile.  `[[`mailto:Carlos`](mailto:Carlos)`
+ ``Allendes`](mailto:carlos.allendes@owasp.org)`            `[`Perfil``
+ ``en``   ``LinkedIN`](http://cl.linkedin.com/in/carlosallendes)
+`      + Alejandro Johannes, Vice-presidente OWASP Chile.  `[[`mailto:Alejandro`](mailto:Alejandro)`
+ ``Johannes`](mailto:ajohannesm@gmail.com)`            `[`Perfil``
+ ``en``
+ ``linkedIN`](http://cl.linkedin.com/pub/alejandro-johannes/b/811/a12)
+`      + Jessica Matus Arenas, Vice-presidenta Invitada en Owasp. `[[`mailto:Jessica`](mailto:Jessica)`
+ ``Matus`](mailto:jessica@datosprotegidos.org)`           `[`Perfil``
+ ``en``   ``linkedIN`](https://www.linkedin.com/in/jessicamatus/)
+`      + Leonardo Pizarro, Secretario Ejecutivo OWASP Chile.  `[[`mailto:Leonardo`](mailto:Leonardo)`
+ ``Pizarro`](mailto:leonardo.pizarro@owasp.org)`           `[`Perfil``
+ ``en``
+ ``LinkedIN`](http://cl.linkedin.com/in/leonardopizarro)`       `
+`      + Elizabeth Briones, Directora de RRPP OWASP Chile.  `[[`mailto:Elizabeth`](mailto:Elizabeth)`
+ ``Briones`](mailto:elibrionespalma@gmail.com)`           `[`Perfil``
+ ``en``
+ ``LinkedIN`](https://www.linkedin.com/in/elizabeth-briones-481635a4/)
 
-```
-{info.md}
+## ¿Como unirte a OWASP Chile?     ¿Como estar informado de novedades?
 
-This separate file is where you should place links to your Google Group and Meetup page. It will be automatically rendered in the column sidebar.
+\+ [facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
+            +
+[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         +
+[whatsapp/telegram](mailto:carlos.allendes@owasp.org)
 
-{leaders.md}
+## OWASP es una organización mundial sin fines de lucro
 
-Another separate file that should simply include each leaders name with mailto link as a list. It will also be automatically rendered in the column sidebar.
+  - OWASP se dedica a identificar y combatir las causas que hacen
+    inseguro el software. Revise nuestra documentación y metodologías en
+    los Proyectos OWASP donde encontrará valioso material de aplicación
+    práctica en los ambientes corporativos. Asista a los talleres y
+    conferencias de OWASP y aprenda como sacar provecho a estos recursos
+    gratuitos.
 
--->
+
