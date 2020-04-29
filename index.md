@@ -21,9 +21,9 @@ region: Latin America
 
 ## ¿Como estar informado de novedades?
 
-+[facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
-+[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
-+[whatsapp/telegram](mailto:carlos.allendes@owasp.org)
++ [Facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
++ [Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
++ [Whatsapp/Telegram](mailto:carlos.allendes@owasp.org)
 
 ## OWASP es una organización mundial sin fines de lucro
 
