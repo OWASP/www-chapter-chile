@@ -7,23 +7,23 @@ region: Latin America
 ---
 
 ## Equipo de Trabajo y Coordinación
-+ Carlos Allendes D., Presidente y Líder OWASP Chile.  [mailto:Carlos Allendes](mailto:carlos.allendes@owasp.org)            
++ Carlos Allendes D., Presidente y Líder OWASP Chile.  [Carlos Allendes](mailto:carlos.allendes@owasp.org)            
 + [Perfil en LinkedIN](https://cl.linkedin.com/in/carlosallendes)
-+ Alejandro Johannes, Vice-presidente OWASP Chile.  [mailto:Alejandro Johannes](mailto:ajohannesm@gmail.com)           
++ Alejandro Johannes, Vice-presidente OWASP Chile.  [Alejandro Johannes](mailto:ajohannesm@gmail.com)           
 + [Perfil en linkedIN](https://cl.linkedin.com/pub/alejandro-johannes/b/811/a12)
-+ Jessica Matus Arenas, Vice-presidenta Invitada en Owasp. [mailto:Jessica Matus](mailto:jessica@datosprotegidos.org)     
++ Jessica Matus Arenas, Vice-presidenta Invitada en Owasp. [Jessica Matus](mailto:jessica@datosprotegidos.org)     
 + [Perfil en linkedIN](https://www.linkedin.com/in/jessicamatus/)
-+ Leonardo Pizarro, Secretario Ejecutivo OWASP Chile.  [mailto:Leonardo Pizarro](mailto:leonardo.pizarro@owasp.org)        
++ Leonardo Pizarro, Secretario Ejecutivo OWASP Chile.  [Leonardo Pizarro](mailto:leonardo.pizarro@owasp.org)        
 + [Perfil en LinkedIN](https://cl.linkedin.com/in/leonardopizarro)       
-+ Elizabeth Briones, Directora de RRPP OWASP Chile.  [mailto:Elizabeth Briones](mailto:elibrionespalma@gmail.com)         
++ Elizabeth Briones, Directora de RRPP OWASP Chile.  [Elizabeth Briones](mailto:elibrionespalma@gmail.com)         
 + [Perfil en LinkedIN](https://www.linkedin.com/in/elizabeth-briones-481635a4/)
 
 
-## ¿Como unirte a OWASP Chile?     ¿Como estar informado de novedades?
+## ¿Como estar informado de novedades?
 
-[facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
-[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
-[whatsapp/telegram](mailto:carlos.allendes@owasp.org)
++[facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
++[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
++[whatsapp/telegram](mailto:carlos.allendes@owasp.org)
 
 ## OWASP es una organización mundial sin fines de lucro
 
@@ -35,3 +35,6 @@ region: Latin America
     gratuitos.
 
 
+## Noticias locales
+
+  
