@@ -6,7 +6,6 @@ level: 0
 region: Latin America
 ---
 
-Inline-style: 
 ![alt text](https://i.ibb.co/CzYdw04/owaspCL.jpg "Owasp Chile")
 
 ## Equipo de Trabajo y Coordinación
