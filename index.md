@@ -37,6 +37,8 @@ region: Latin America
     gratuitos.
 
 
-## Noticias locales
+## Historico
++ [Historico 2010-2019](https://wiki.owasp.org/index.php/Chile#tab=Owasp-Chile)
+
 
   
