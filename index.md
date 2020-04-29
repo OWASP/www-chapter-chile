@@ -6,6 +6,9 @@ level: 0
 region: Latin America
 ---
 
+Inline-style: 
+![alt text](https://i.ibb.co/CzYdw04/owaspCL.jpg "Owasp Chile")
+
 ## Equipo de Trabajo y Coordinación
 + Carlos Allendes D., Presidente y Líder OWASP Chile.  [Carlos Allendes](mailto:carlos.allendes@owasp.org)            
 + [Perfil en LinkedIN](https://cl.linkedin.com/in/carlosallendes)
