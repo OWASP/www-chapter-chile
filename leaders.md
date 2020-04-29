@@ -1,4 +1,4 @@
-### Leaders
+### Líderes
 
 * [Carlos Allendes](mailto:carlos.allendes@owasp.org)
 * [Leonardo Pizarro](mailto:leonardo.pizarro@owasp.org)
@@ -12,7 +12,7 @@
 *   [Acuerdo de los oradores](https://www.owasp.org/index.php/Speaker_Agreement)
 *   [Codigo de conducta](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
-## ¿Como estar informado de novedades?
+### ¿Como estar informado de novedades?
 
 
 + [Facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
