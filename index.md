@@ -21,12 +21,6 @@ region: Latin America
 + [Perfil en LinkedIN](https://www.linkedin.com/in/elizabeth-briones-481635a4/)
 
 
-## ¿Como estar informado de novedades?
-
-+ [Facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
-+ [Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
-+ [Whatsapp/Telegram](mailto:carlos.allendes@owasp.org)
-
 ## OWASP es una organización mundial sin fines de lucro
 
   - OWASP se dedica a identificar y combatir las causas que hacen
