@@ -1,3 +1,11 @@
+---
+layout: col-sidebar
+title: OWASP Chile
+tags: example-tag
+level: 0
+region: Latin America
+---
+
 # Owasp-Chile
 
 ## Equipo de Trabajo y Coordinación
