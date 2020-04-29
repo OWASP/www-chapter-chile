@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Chile
-tags: example-tag
+tags: 2020
 level: 0
 region: Latin America
 ---
@@ -43,35 +43,3 @@ region: Latin America
     conferencias de OWASP y aprenda como sacar provecho a estos recursos
     gratuitos.
 
----
-title: 2020
-layout:  null
-tab: true
-order: 1
-tags: tag
----
-
----
-title: 2020
-layout:  null
-tab: true
-order: 1
-tags: tag
----
-
-## 2020
-
-Put whatever you like here: news, screenshots, features, supporters, or remove this f1l3 and don't use tabs at all.
-
-
----
-title: 2019
-layout:  null
-tab: true
-order: 1
-tags: tag
----
-
-## 2019
-
-Put whatever you like here: news, screenshots, features, supporters, or remove this f1l3 and don't use tabs at all.
