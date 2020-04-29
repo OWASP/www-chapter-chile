@@ -1,8 +1,8 @@
 ---
 layout: col-sidebar
 title: OWASP Chile
-tags: 2020
-level: 0
+tags: mstg
+level: 4
 region: Latin America
 ---
 
