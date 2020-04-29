@@ -29,9 +29,8 @@ region: Latin America
 
 ## ¿Como unirte a OWASP Chile?     ¿Como estar informado de novedades?
 
-\+ [facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
-            +
-[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         +
+[facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
+[Twitter](https://twitter.com/#!/search/realtime/owaspchile)         
 [whatsapp/telegram](mailto:carlos.allendes@owasp.org)
 
 ## OWASP es una organización mundial sin fines de lucro
@@ -42,4 +41,5 @@ region: Latin America
     práctica en los ambientes corporativos. Asista a los talleres y
     conferencias de OWASP y aprenda como sacar provecho a estos recursos
     gratuitos.
+
 
