@@ -1,8 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Chile
-tags: mstg
-level: 3
+level: 0
 region: Latin America
 ---
 
