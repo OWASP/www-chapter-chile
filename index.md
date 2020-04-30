@@ -1,11 +1,11 @@
----
-title: OWASP Chile
-tags: Chile
-level: 4
-region: SurAmerican
-layout: col-sidebar
 
----
+layout: col-sidebar
+title: OWASP [GROUPNAME]
+tags: example-tag
+level: 4
+type: example
+altfooter: true
+
 
 ![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
 
