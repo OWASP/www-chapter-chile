@@ -1,6 +1,6 @@
 ---
 
-title: OWASP Chile
+title: OWASP Chile 2020
 layout: col-sidebar
 site_side: true
 tags: 2020
