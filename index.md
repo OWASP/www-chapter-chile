@@ -1,8 +1,16 @@
 ---
+
+layout: col-sidebar
 title: OWASP Chile
+site_side: true
+tags: london
 level: 3
 region: Latin America
+currency: gbp
+
 ---
+<!-- rebuild -->
+
 
 ![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
 
