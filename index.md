@@ -1,7 +1,7 @@
 ---
 layout: col-sidebar
 title: OWASP Chile
-level: 0
+level: 3
 region: Latin America
 ---
 
