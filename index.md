@@ -1,6 +1,7 @@
 ---
 
 title: OWASP Chile
+layout: col-sidebar
 site_side: true
 tags: 2020
 level: 4
