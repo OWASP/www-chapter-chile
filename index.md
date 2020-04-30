@@ -1,9 +1,12 @@
 ---
+
 layout: col-sidebar
 title: OWASP Chile
-tags: chile
-level: 4
-region: Europe
+tags: Chile, LATAM
+level: 0
+
+
+region: Latin America
 
 ---
 
