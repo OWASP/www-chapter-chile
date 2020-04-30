@@ -1,10 +1,11 @@
-
+---
 layout: col-sidebar
-title: OWASP [GROUPNAME]
-tags: example-tag
+title: OWASP Chile
+tags: chile
 level: 4
-type: example
-altfooter: true
+region: Europe
+
+---
 
 
 ![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
