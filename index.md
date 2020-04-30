@@ -3,7 +3,7 @@
 layout: col-sidebar
 title: OWASP Chile
 site_side: true
-tags: london
+tags: Chile
 level: 3
 region: Latin America
 currency: gbp
