@@ -1,6 +1,5 @@
 ---
 
-layout: col-sidebar
 title: OWASP Chile
 site_side: true
 tags: 2020
