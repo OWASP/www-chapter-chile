@@ -3,10 +3,9 @@
 layout: col-sidebar
 title: OWASP Chile
 site_side: true
-tags: Chile
-level: 3
+tags: 2020
+level: 4
 region: Latin America
-currency: gbp
 
 ---
 <!-- rebuild -->
