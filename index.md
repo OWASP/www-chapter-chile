@@ -1,15 +1,11 @@
 ---
-
-title: OWASP Chile 2020
 layout: col-sidebar
-site_side: true
-tags: 2020
+title: OWASP Chile
+tags: Chile
 level: 4
-region: Latin America
+region: Sur American
 
 ---
-<!-- rebuild -->
-
 
 ![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
 
