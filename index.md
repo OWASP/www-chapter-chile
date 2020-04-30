@@ -1,5 +1,4 @@
 ---
-layout: col-sidebar
 title: OWASP Chile
 tags: Chile
 level: 4
