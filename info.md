@@ -1,6 +1,3 @@
-<!--### Chapter Information
-* Chapter Region
-
 ### Informacion importante
 
 * [Ser miembro](https://www.owasp.org/index.php/Membership)
