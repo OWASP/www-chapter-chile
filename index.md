@@ -3,6 +3,7 @@ title: OWASP Chile
 tags: Chile
 level: 4
 region: Sur American
+layout: col-sidebar
 
 ---
 
