@@ -20,7 +20,7 @@ region: South America
 + [Perfil en LinkedIN](https://www.linkedin.com/in/elizabeth-briones-481635a4/)
 
 
-## OWASP es una organización mundial sin fines de lucro
+## OWASP es una organización mundial sin fines de lucro.
 
   - OWASP se dedica a identificar y combatir las causas que hacen
     inseguro el software. Revise nuestra documentación y metodologías en
@@ -30,7 +30,7 @@ region: South America
     gratuitos.
 
 
-## Historico
+## Historico.
 + [Ver Historico 2010-2019](https://wiki.owasp.org/index.php/Chile#tab=Owasp-Chile)
 
 
