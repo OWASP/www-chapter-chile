@@ -36,6 +36,3 @@ postal-code:
 
 ## Historico.
 + [Ver Historico 2010-2019](https://wiki.owasp.org/index.php/Chile#tab=Owasp-Chile)
-
-
-
