@@ -1,4 +1,4 @@
-### Informacion importante
+### Informacion importante.
 
 * [Ser miembro](https://www.owasp.org/index.php/Membership)
 * [Apoyo del capítulo local](https://www.owasp.org/index.php/Local_Chapter_Supporter)
@@ -6,8 +6,7 @@
 * [Acuerdo de los oradores](https://www.owasp.org/index.php/Speaker_Agreement)
 * [Codigo de conducta](https://www.owasp.org/index.php/Governance/Conference_Policies)
 
-### Social Links
-
+### Social Links.
 
 * [Meetup](https://www.meetup.com/owasp-chile-meetup-group/)
 * [Facebook/owaspchile](https://web.facebook.com/owasp.owaspchile.7)  
