@@ -1,8 +1,11 @@
 ---
 layout: col-sidebar
 title: OWASP Chile
+tags: chile
 level: 0
 region: South America
+country: Chile
+postal-code: 
 
 ---
 
