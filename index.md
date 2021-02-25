@@ -8,7 +8,7 @@ region: South America
 ![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
 
 ## Equipo de Trabajo y Coordinación.
-+ Carlos Allendes D., Presidente y Líder OWASP Chile.  [Carlos Allendes](mailto:carlos.allendes@owasp.org)            
++ Carlos Allendes, Presidente y Líder OWASP Chile.  [Carlos Allendes](mailto:carlos.allendes@owasp.org)            
 + [Perfil en LinkedIN](https://cl.linkedin.com/in/carlosallendes)
 + Alejandro Johannes, Vice-presidente OWASP Chile.  [Alejandro Johannes](mailto:ajohannesm@gmail.com)           
 + [Perfil en linkedIN](https://cl.linkedin.com/pub/alejandro-johannes/b/811/a12)
