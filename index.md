@@ -9,10 +9,6 @@ postal-code:
 
 ---
 
-![alt text](https://i.ibb.co/wR4M75k/Webp-net-resizeimage.jpg)
-
-
-
 
 ## OWASP es una organización mundial sin fines de lucro.
 
