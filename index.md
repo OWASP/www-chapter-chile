@@ -19,6 +19,8 @@ postal-code:
     conferencias de OWASP y aprenda como sacar provecho a estos recursos
     gratuitos.
 
+* [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/events/277879931/ "Link Meetup")
+
 
 ## Historico.
 + [Ver Historico 2010-2019](https://wiki.owasp.org/index.php/Chile#tab=Owasp-Chile)
