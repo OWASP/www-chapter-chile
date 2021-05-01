@@ -18,7 +18,7 @@ country: Chile
     conferencias de OWASP y aprenda como sacar provecho a estos recursos
     gratuitos.
 
-* [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/events/277879931/ "Link Meetup")
+* [Links Meetup](https://www.meetup.com/owasp-chile-meetup-group/events/277879931/ "Link Meetup")
 
 
 ## Historico.
