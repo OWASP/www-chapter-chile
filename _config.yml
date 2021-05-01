@@ -1,5 +1,4 @@
 remote_theme: "owasp/www--site-theme@main"
+encoding: UTF-8
 plugins:
  - jekyll-include-cache-0.2.0
- - jemoji
- - jekyll-redirect-from
