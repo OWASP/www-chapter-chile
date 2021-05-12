@@ -1,13 +1,14 @@
 ---
+
 layout: col-sidebar
 title: OWASP Chile
 tags: chile
 level: 0
 region: South America
 country: Chile
+meetup-group: owasp-chile-meetup-group
 
 ---
-
 
 ## OWASP es una organización mundial sin fines de lucro.
 
@@ -18,8 +19,10 @@ country: Chile
     conferencias de OWASP y aprenda como sacar provecho a estos recursos
     gratuitos.
 
-* [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/events/277879931/ "Link Meetup")
+{% include chapter_events.html group=page.meetup-group %}
 
+* [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/ "Link Meetup")
 
-## Historico.
+## Historico
+
 + [Ver Historico 2010-2019](https://wiki.owasp.org/index.php/Chile#tab=Owasp-Chile)
