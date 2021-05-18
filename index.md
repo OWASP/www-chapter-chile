@@ -21,7 +21,8 @@ meetup-group: owasp-chile-meetup-group
 
 {% include chapter_events.html group=page.meetup-group %}
 
-* [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/ "Link Meetup")
+## OwaspChile comunica su primer ciclo de charlas 2021 en colaboración con la Comunidad Auditores Lideres en TI .
+Serán 4 días, del 10 al 13 de mayo 2021 en horario de 21:00 - 22:30. Y cada dia tendremos 3 relatores con un tema interesante, que masa allá de exponerlo... queremos debatirlo, conversarlo y aprender en conjunto.  [Link Meetup](https://www.meetup.com/owasp-chile-meetup-group/ "Link Meetup")
 
 ## Historico
 
