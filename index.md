@@ -11,7 +11,8 @@ meetup-group: owasp-chile-meetup-group
 
 ---
     
- ![img_20210520-163959](https://user-images.githubusercontent.com/49660434/119045966-2017fb00-b98a-11eb-86fd-05f91b5e6c61.png)
+![img_20210520-164514](https://user-images.githubusercontent.com/49660434/119050875-712aed80-b990-11eb-86cc-c754d5312a32.png)
+
 
 {% include chapter_events.html group=page.meetup-group %}
 
