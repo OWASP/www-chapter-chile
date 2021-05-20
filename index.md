@@ -1,4 +1,3 @@
-
 ---
 
 layout: col-sidebar
@@ -10,7 +9,8 @@ country: Chile
 meetup-group: owasp-chile-meetup-group
 
 ---
-    
+
+
 ![img_20210520-164514](https://user-images.githubusercontent.com/49660434/119050875-712aed80-b990-11eb-86cc-c754d5312a32.png)
 
 
