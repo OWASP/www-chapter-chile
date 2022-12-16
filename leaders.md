@@ -1,7 +1,7 @@
 ### Leaders.
 
-* [Carlos Allendes](carlos.allendes@owasp.org)
-* [Alejandro Johannes](alejandro.johannes@owasp.org)
-* [Romina Chacana FLores](rominachacana.flores@owasp.org)
-* [Sandra Henriquez](sandra.henriquez@owasp.org)
-* [Mauricio Eastman](Mauricio.Eastman@owasp.org)
+* [Carlos Allendes](mailto:carlos.allendes@owasp.org)
+* [Alejandro Johannes](mailto:alejandro.johannes@owasp.org)
+* [Romina Chacana FLores](Mailto:rominachacana.flores@owasp.org)
+* [Sandra Henriquez](mailto:sandra.henriquez@owasp.org)
+* [Mauricio Eastman](mailto:Mauricio.Eastman@owasp.org)
