@@ -56,13 +56,12 @@ Seminario organizado en conjunto con la Universidad Diego Portales. Se abordaron
 ### OWASP Radio Talks 2019
 
 #### Programa del 12 de Julio de 2019  
-**Desafío de adivinar números en una aplicación hackeable.**  
+**Desafío CTF nivel faaacil  **Adivinar números en un intento**.**  
 [Acceder a la Aplicación](http://vicnum.ciphertechs.com/guessnum.html)
 
 #### Explicación OWASP en Radio Cavancha de Iquique  
 **Fecha:** 10 de Mayo de 2019  
 **Tema:** La importancia de la ciberseguridad en la era digital.  
-[Escuchar en Cavancha FM](https://es-la.facebook.com/cavanchafm107.7/)
 
 
 
