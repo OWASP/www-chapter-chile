@@ -23,7 +23,7 @@ meetup-group: owasp-chile-meetup-group
 
 - OWASP Top 10 for LLMs
 - OWASP ASVS
-- OWASP Top 10 2021
+- OWASP TopTen
 
 
 Ven a nuestras charlas y webinars [INSCRIBETE](https://www.meetup.com/owasp-chile-meetup-group/).
