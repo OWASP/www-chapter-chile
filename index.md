@@ -12,8 +12,8 @@ meetup-group: owasp-chile-meetup-group
 
 
 
-![logo_2024](https://github.com/OWASP/www-chapter-chile/blob/master/assets/images/logo_20241015204526.png)
-
+![logo_2024](/assets/images/logo_20241015204526.png)
+/assets/images/logoCHILE
 
 {% include chapter_events.html group=page.meetup-group %}
 
