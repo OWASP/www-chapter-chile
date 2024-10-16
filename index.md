@@ -17,16 +17,16 @@ meetup-group: owasp-chile-meetup-group
 
 {% include chapter_events.html group=page.meetup-group %}
 
+---
 
+**OWASP Chile traduce y divulga los nuevos documentos.** Avísanos si requieres ayuda. Participa y asiste a nuestras charlas y webinars [INSCRIBETE](https://www.meetup.com/owasp-chile-meetup-group/).
 
-## OWASP Chile traduce y divulga los nuevos documentos. Avísanos si requieres ayuda.
 
 - OWASP Top 10 for LLMs
 - OWASP ASVS
 - OWASP TopTen
 
 
-Ven a nuestras charlas y webinars [INSCRIBETE](https://www.meetup.com/owasp-chile-meetup-group/).
 
 ---
 
