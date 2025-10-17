@@ -1,0 +1,33 @@
+community:
+  - name: chapter-chile
+    platform: slack
+    url: https://owasp.slack.com/archives/C0313RXT5KM
+    description: OWASP Chile Chapter
+leaders:
+  - name: Carlos Allendes
+    email: carlos.allendes@owasp.org
+    github: CarlosAllendes
+  - name: Alejandro Johannes
+    email: alejandro.johannes@owasp.org
+  - name: Romina Chacana FLores
+    email: rominachacana.flores@owasp.org
+  - name: Sandra Henriquez
+    email: sandra.henriquez@owasp.org
+  - name: Mauricio Eastman
+    email: Mauricio.Eastman@owasp.org
+location:
+  country: Chile
+  country_code: CL
+  latitude: -31.7613365
+  longitude: -71.3187697
+meetup_group: owasp-chile-meetup-group
+name: OWASP Chile
+repositories:
+  - name: www-chapter-chile
+    url: https://github.com/OWASP/www-chapter-chile
+    description: OWASP Foundation Web Repository
+tags:
+  - chile
+  - custom-tag-1
+  - custom-tag-2
+website: https://owasp.org/www-chapter-chile
